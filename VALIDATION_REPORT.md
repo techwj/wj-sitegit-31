@@ -1,0 +1,88 @@
+# Validation Report - 3-day-holiday-guide
+
+Generated: 2026-06-02T15:38:18.537695
+
+## Passed
+
+- ✓ Required file exists: privacy.html
+- ✓ Required file exists: cookie-policy.html
+- ✓ Required file exists: terms.html
+- ✓ Required file exists: ad-policy.html
+- ✓ Required file exists: contact.html
+- ✓ Required file exists: about.html
+- ✓ Required file exists: dmca.html
+- ✓ Required file exists: accessibility.html
+- ✓ Suggested file exists: data-request.html
+- ✓ Suggested file exists: do-not-sell.html
+- ✓ Suggested file exists: third-party-disclosure.html
+- ✓ Suggested file exists: disclaimer.html
+- ✓ Suggested file exists: external-link-policy.html
+- ✓ Suggested file exists: content-policy.html
+- ✓ Suggested file exists: security-policy.html
+- ✓ Suggested file exists: children-privacy.html
+- ✓ Suggested file exists: refund-policy.html
+- ✓ Suggested file exists: faq.html
+- ✓ Suggested file exists: press-kit.html
+- ✓ Suggested file exists: feedback.html
+- ✓ Suggested file exists: code-of-conduct.html
+- ✓ Article word count OK: The Ultimate Guide to Beginner 3-Day Holiday Guide
+- ✓ Article word count OK: Beginner 3-Day Holiday Guide: Everything You Need to Know
+- ✓ Article word count OK: Understanding Beginner 3-Day Holiday Guide
+- ✓ Article word count OK: Beginner 3-Day Holiday Guide Tips and Best Practices
+- ✓ Article word count OK: The History of Beginner 3-Day Holiday Guide
+- ✓ Article word count OK: Beginner 3-Day Holiday Guide in 2026: Current Trends
+- ✓ Article word count OK: Future of Beginner 3-Day Holiday Guide
+- ✓ Article word count OK: Common Mistakes in Beginner 3-Day Holiday Guide
+- ✓ Article word count OK: Beginner 3-Day Holiday Guide for Beginners
+- ✓ Article word count OK: Advanced Beginner 3-Day Holiday Guide Techniques
+- ✓ Article word count OK: The Ultimate Guide to Advanced 3-Day Holiday Guide
+- ✓ Article word count OK: Advanced 3-Day Holiday Guide: Everything You Need to Know
+- ✓ Article word count OK: Understanding Advanced 3-Day Holiday Guide
+- ✓ Article word count OK: Advanced 3-Day Holiday Guide Tips and Best Practices
+- ✓ Article word count OK: The History of Advanced 3-Day Holiday Guide
+- ✓ Article word count OK: Advanced 3-Day Holiday Guide in 2026: Current Trends
+- ✓ Article word count OK: Future of Advanced 3-Day Holiday Guide
+- ✓ Article word count OK: Common Mistakes in Advanced 3-Day Holiday Guide
+- ✓ Article word count OK: Advanced 3-Day Holiday Guide for Beginners
+- ✓ Article word count OK: Advanced Advanced 3-Day Holiday Guide Techniques
+- ✓ Article word count OK: The Ultimate Guide to 3-Day Holiday Guide Tips
+- ✓ Article word count OK: 3-Day Holiday Guide Tips: Everything You Need to Know
+- ✓ Article word count OK: Understanding 3-Day Holiday Guide Tips
+- ✓ Article word count OK: 3-Day Holiday Guide Tips Tips and Best Practices
+- ✓ Article word count OK: The History of 3-Day Holiday Guide Tips
+- ✓ Article word count OK: 3-Day Holiday Guide Tips in 2026: Current Trends
+- ✓ Article word count OK: Future of 3-Day Holiday Guide Tips
+- ✓ Article word count OK: Common Mistakes in 3-Day Holiday Guide Tips
+- ✓ Article word count OK: 3-Day Holiday Guide Tips for Beginners
+- ✓ Article word count OK: Advanced 3-Day Holiday Guide Tips Techniques
+- ✓ Article word count OK: The Ultimate Guide to 3-Day Holiday Guide History
+- ✓ Article word count OK: 3-Day Holiday Guide History: Everything You Need to Know
+- ✓ Article word count OK: Understanding 3-Day Holiday Guide History
+- ✓ Article word count OK: 3-Day Holiday Guide History Tips and Best Practices
+- ✓ Article word count OK: The History of 3-Day Holiday Guide History
+- ✓ Article word count OK: 3-Day Holiday Guide History in 2026: Current Trends
+- ✓ Article word count OK: Future of 3-Day Holiday Guide History
+- ✓ Article word count OK: Common Mistakes in 3-Day Holiday Guide History
+- ✓ Article word count OK: 3-Day Holiday Guide History for Beginners
+- ✓ Article word count OK: Advanced 3-Day Holiday Guide History Techniques
+- ✓ Article word count OK: The Ultimate Guide to Trending 3-Day Holiday Guide
+- ✓ Article word count OK: Trending 3-Day Holiday Guide: Everything You Need to Know
+- ✓ Article word count OK: Understanding Trending 3-Day Holiday Guide
+- ✓ Article word count OK: Trending 3-Day Holiday Guide Tips and Best Practices
+- ✓ Article word count OK: The History of Trending 3-Day Holiday Guide
+- ✓ Article word count OK: Trending 3-Day Holiday Guide in 2026: Current Trends
+- ✓ Article word count OK: Future of Trending 3-Day Holiday Guide
+- ✓ Article word count OK: Common Mistakes in Trending 3-Day Holiday Guide
+- ✓ Article word count OK: Trending 3-Day Holiday Guide for Beginners
+- ✓ Article word count OK: Advanced Trending 3-Day Holiday Guide Techniques
+- ✓ Article word count OK: The Ultimate Guide to 3-Day Holiday Guide Tutorials
+- ✓ Article word count OK: 3-Day Holiday Guide Tutorials: Everything You Need to Know
+- ✓ Article word count OK: Understanding 3-Day Holiday Guide Tutorials
+- ✓ Article word count OK: 3-Day Holiday Guide Tutorials Tips and Best Practices
+- ✓ Article word count OK: The History of 3-Day Holiday Guide Tutorials
+- ✓ Article word count OK: 3-Day Holiday Guide Tutorials in 2026: Current Trends
+- ✓ Article word count OK: Future of 3-Day Holiday Guide Tutorials
+- ✓ Article word count OK: Common Mistakes in 3-Day Holiday Guide Tutorials
+- ✓ Article word count OK: 3-Day Holiday Guide Tutorials for Beginners
+- ✓ Article word count OK: Advanced 3-Day Holiday Guide Tutorials Techniques
+- ✓ Ad configuration validated

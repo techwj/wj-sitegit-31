@@ -1,0 +1,59 @@
+{
+  "siteId": "3-day-holiday-guide",
+  "generatedAt": "2026-06-02T15:38:18.537922",
+  "categories": [
+    "beginner-3-day-holiday-guide",
+    "advanced-3-day-holiday-guide",
+    "tips-3-day-holiday-guide",
+    "history-3-day-holiday-guide",
+    "trending-3-day-holiday-guide",
+    "tutorials-3-day-holiday-guide"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-3-day-holiday-guide",
+      "category_name": "Beginner 3-Day Holiday Guide"
+    },
+    {
+      "category_slug": "advanced-3-day-holiday-guide",
+      "category_name": "Advanced 3-Day Holiday Guide"
+    },
+    {
+      "category_slug": "tips-3-day-holiday-guide",
+      "category_name": "3-Day Holiday Guide Tips"
+    },
+    {
+      "category_slug": "history-3-day-holiday-guide",
+      "category_name": "3-Day Holiday Guide History"
+    },
+    {
+      "category_slug": "trending-3-day-holiday-guide",
+      "category_name": "Trending 3-Day Holiday Guide"
+    },
+    {
+      "category_slug": "tutorials-3-day-holiday-guide",
+      "category_name": "3-Day Holiday Guide Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "3-day-holiday-guide",
+    "color_scheme": {
+      "name": "Ocean Blue",
+      "primary": "#1e3a8a",
+      "secondary": "#3b82f6",
+      "accent": "#60a5fa",
+      "background": "#f8fafc",
+      "text": "#1e293b",
+      "light": "#f1f5f9"
+    },
+    "font": {
+      "family": "Inter, system-ui, -apple-system, sans-serif",
+      "heading": "Inter",
+      "body": "Inter"
+    },
+    "layout": "sidebar",
+    "site_title": "3-Day Holiday Guide Central",
+    "articles_per_row": 2
+  }
+}
